@@ -35,4 +35,6 @@ Projekt je rozdelený do fáz, ktoré sprevádzajú dáta od ich zberu až po na
 * **Python (Pandas/Scikit-learn):** Primárny nástroj pre ML modelovanie a EDA.
 * **Power BI/Excel:** Nástroje na vizualizáciu kľúčových zistení (Insights) pre interných zákazníkov.
 
-**Pre detailnú štruktúru jednotlivých fáz a navrhovaných metrík, prosím, kontaktujte ma priamo. Teším sa na diskusiu o reálnej implementácii v prostredí O2.**
+Pre detailnú analytickú štruktúru projektu (Hypotetické dáta, EDA, Výber Modelu, Metriky), prosím, prejdite na dokument:
+
+**[Detailná Analytická Štruktúra: Churn Prediction >](Churn_Prediction_Detailed_Analysis.md)**
