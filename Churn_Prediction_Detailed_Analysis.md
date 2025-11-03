@@ -62,3 +62,7 @@ Cieľom tohto projektu je vyvinúť a demonštrovať štruktúrovaný prístup k
 
 * **Segmentácia zákazníkov:** Využitie clusteringu na identifikáciu rôznych skupín zákazníkov náchylných na odchod s odlišnými charakteristikami.
 * **Využitie NLP:** Analýza textových dát zo sťažností alebo chatov pre lepšie pochopenie sentimentu zákazníkov.
+
+  Pre detailnú analytickú štruktúru projektu (Hypotetické dáta, EDA, Výber Modelu, Metriky), prosím, prejdite na dokument:
+
+**[Detailná Analytická Štruktúra: Churn Prediction >](Churn_Prediction_Detailed_Analysis.md)**
